@@ -8,7 +8,6 @@ Installation
     ```
 2. Run the following command on your symfony2 root
     ```
-	
     $ composer update astrus/magento-bundle
     ```
 3. Edit app/AppKernel.php, add the following:
